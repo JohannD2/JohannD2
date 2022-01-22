@@ -8,7 +8,7 @@ Reassigned at home due to the Covid19 epidemic early 2020, I started learning HT
 
 ## Skills and Experience:
 
-- https://slackmojis.com/emojis/4425-nodejs/download NODE
+- ![image](https://user-images.githubusercontent.com/63458611/150644989-ecf3d21b-dbc8-461e-8e97-9d40974c74f8.png) NODE
 - ⚛ REACT
 -  NEXT
 - 💻 HTML, CSS, JS, EJS 
