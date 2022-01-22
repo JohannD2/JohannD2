@@ -8,9 +8,9 @@ Reassigned at home due to the Covid19 epidemic early 2020, I started learning HT
 
 ## Skills and Experience:
 
-- NODE
+- https://slackmojis.com/emojis/4425-nodejs/download NODE
 - ⚛ REACT
-- #368 NEXT
+-  NEXT
 - 💻 HTML, CSS, JS, EJS 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JohannD2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/johann-darbas-2719712/)  
