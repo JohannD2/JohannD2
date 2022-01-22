@@ -8,9 +8,11 @@ Reassigned at home due to the Covid19 epidemic early 2020, I started learning HT
 
 ## Skills and Experience:
 
-- ![image](https://user-images.githubusercontent.com/63458611/150644989-ecf3d21b-dbc8-461e-8e97-9d40974c74f8.png) NODE
-- ⚛ REACT
--  NEXT
+- ![image](https://user-images.githubusercontent.com/63458611/150644989-ecf3d21b-dbc8-461e-8e97-9d40974c74f8.png) 
+- ![image](https://user-images.githubusercontent.com/63458611/150645067-7dfc243b-be4c-4f26-b339-6d93186ba083.png)
+- ![image](https://user-images.githubusercontent.com/63458611/150645133-314e6fda-4d50-4cb7-bcaa-d42d8e022e4c.png)
+- ![image](https://user-images.githubusercontent.com/63458611/150645216-8ebd5661-67bc-4ba9-880a-b53390878803.png)
+
 - 💻 HTML, CSS, JS, EJS 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JohannD2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/johann-darbas-2719712/)  
