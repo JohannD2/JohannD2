@@ -8,10 +8,10 @@ Reassigned at home due to the Covid19 epidemic early 2020, I started learning HT
 
 ## Skills and Experience:
 
-- ![image](https://user-images.githubusercontent.com/63458611/150644989-ecf3d21b-dbc8-461e-8e97-9d40974c74f8.png) 
-- ![image](https://user-images.githubusercontent.com/63458611/150645067-7dfc243b-be4c-4f26-b339-6d93186ba083.png)
-- ![image](https://user-images.githubusercontent.com/63458611/150645133-314e6fda-4d50-4cb7-bcaa-d42d8e022e4c.png)
+![image](https://user-images.githubusercontent.com/63458611/150644989-ecf3d21b-dbc8-461e-8e97-9d40974c74f8.png) ![image](https://user-images.githubusercontent.com/63458611/150645067-7dfc243b-be4c-4f26-b339-6d93186ba083.png)![image](https://user-images.githubusercontent.com/63458611/150645133-314e6fda-4d50-4cb7-bcaa-d42d8e022e4c.png)
 - ![image](https://user-images.githubusercontent.com/63458611/150645216-8ebd5661-67bc-4ba9-880a-b53390878803.png)
+- ![image](https://user-images.githubusercontent.com/63458611/150645298-eeaf4a48-dead-4f5a-b9ed-f741cf752592.png)
+
 
 - 💻 HTML, CSS, JS, EJS 
 
