@@ -18,4 +18,4 @@ Reassigned at home due to the Covid19 epidemic early 2020, I started learning HT
 
 ### Persistent login
 
-<a href="https://github.com/JohannD2/Passport-local-and-Remember-me-Strategies-with-Mongoose-MongoDB-Database"><img src="https://github.com/JohannD2/JohannD2/blob/main/remember_me_gif.gif?raw=true" width="500"></a> 2&emsp;<a href="https://github.com/JohannD2/Sptotify_clone"><img src="https://github.com/JohannD2/JohannD2/blob/main/Spotify_clone.gif?raw=true" width="500"></a>
+<a href="https://github.com/JohannD2/Passport-local-and-Remember-me-Strategies-with-Mongoose-MongoDB-Database"><img src="https://github.com/JohannD2/JohannD2/blob/main/remember_me_gif.gif?raw=true" width="450"></a> &emsp;&emsp;<a href="https://github.com/JohannD2/Sptotify_clone"><img src="https://github.com/JohannD2/JohannD2/blob/main/Spotify_clone.gif?raw=true" width="450"></a>
