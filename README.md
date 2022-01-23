@@ -8,8 +8,7 @@ Reassigned at home due to the Covid19 epidemic early 2020, I started learning HT
 
 ## Skills and Experience
 
-![output-onlinepngtools (3)](https://user-images.githubusercontent.com/63458611/150645873-314f8e0b-4c38-4a92-a33c-7905c285e1cf.png)
-<pre> </pre>
+![output-onlinepngtools (3)](https://user-images.githubusercontent.com/63458611/150645873-314f8e0b-4c38-4a92-a33c-7905c285e1cf.png)<pre> </pre>
 ![output-onlinepngtools (2)](https://user-images.githubusercontent.com/63458611/150645800-73a78e28-877e-4a10-aac8-781a89315ea8.png)
 ![output-onlinepngtools (4)](https://user-images.githubusercontent.com/63458611/150645907-2ac205a0-f13a-4893-a90e-0008d5a3a98c.png)
 ![output-onlinepngtools (7)](https://user-images.githubusercontent.com/63458611/150646120-196df65f-3fd6-4d50-87f0-609c235e01ea.png)
