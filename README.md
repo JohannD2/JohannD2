@@ -23,4 +23,4 @@ Reassigned at home due to the Covid19 epidemic early 2020, I started learning HT
 
 ## Example of Work: 
 
-<img src="https://github.com/JohannD2/JohannD2/blob/main/remember_me_gif.gif?raw=true" width="256">
+<img src="https://github.com/JohannD2/JohannD2/blob/main/remember_me_gif.gif?raw=true" width="512">
