@@ -21,6 +21,8 @@ Reassigned at home due to the Covid19 epidemic early 2020, I started learning HT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannD2)](https://github.com/anuraghazra/github-readme-stats) 
 
-## Example of Work: 
+## Example of Work  
+
+### Persistent login
 
 <a href="https://github.com/JohannD2/Passport-local-and-Remember-me-Strategies-with-Mongoose-MongoDB-Database"><img src="https://github.com/JohannD2/JohannD2/blob/main/remember_me_gif.gif?raw=true" width="512"></a>
