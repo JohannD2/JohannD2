@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/JohannD2/JohannD2/ec4e6a0ce22518942a404ab4eb2dd562732e0994/Johann_Banner.jpg">
+<img src="https://github.com/JohannD2/JohannD2/blob/main/Johann_Banner_2_flatten.jpg?raw=true">
 
 # Johann Darbas 
 
