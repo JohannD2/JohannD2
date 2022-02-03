@@ -23,5 +23,5 @@ Reassigned at home during the Covid19 epidemic early 2020, I started learning HT
 
 ### Slack Clone  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;Medium Blog
 
-<a href="https://github.com/JohannD2/Slack-Clone-with-Firebase9-and-React-Rout"><img src="https://github.com/JohannD2/JohannD2/blob/main/slack_gif.gif?raw=true" width="400"></a> <a href="https://github.com/JohannD2/Medium-Blog-Nextjs-Typescript-Tailwindcss-Sanity"><img src="https://github.com/JohannD2/JohannD2/blob/main/Medium_gif.gif?raw=true" width="400"></a>
+<a href="https://github.com/JohannD2/Slack-Clone-with-Firebase9-and-React-Rout"><img src="https://github.com/JohannD2/JohannD2/blob/main/slack_gif2.gif?raw=true" width="400"></a> <a href="https://github.com/JohannD2/Medium-Blog-Nextjs-Typescript-Tailwindcss-Sanity"><img src="https://github.com/JohannD2/JohannD2/blob/main/Medium_gif.gif?raw=true" width="400"></a>
 
