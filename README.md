@@ -2,7 +2,7 @@
 
 # Johann Darbas 
 
-I am Johann from France. Accomplished sales manager with excellent planning and problem-solving abilities, I spent more than a decade in China working in sales, business development and marketing.
+As an accomplished sales manager with excellent planning and problem-solving abilities, I spent more than a decade in China working in sales, business development and marketing.
 
 Reassigned at home during the Covid19 epidemic early 2020, I started learning HTML, CSS and Javascript on my own. I, then, grew a passion for coding and the web. Later, I expanded my stack by learning Node, React, Next and getting familiar with the MERN stack.  
 
