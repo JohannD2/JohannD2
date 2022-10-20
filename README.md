@@ -6,7 +6,9 @@ Accomplished sales manager with excellent planning and problem-solving abilities
 
 Reassigned at home during the Covid19 epidemic early 2020 (France), I started learning HTML, CSS and Javascript on my own. I, then, grew a passion for coding and the web. Later, I expanded my stack by learning Node, React, React Native and Next.
 
-Graduated from La Capsule Academy, France's leading Coding BootCamp, I just passed successfully the state-approved qualification of Project Manager for the Web and Mobile Development.
+Graduated from La Capsule Academy, France's leading Coding BootCamp, I passed successfully the state-approved qualification of Project Manager for the Web and Mobile Development.
+
+I am currently working as a web developper for Maintners.
 
 ## Skills and Experience
 
